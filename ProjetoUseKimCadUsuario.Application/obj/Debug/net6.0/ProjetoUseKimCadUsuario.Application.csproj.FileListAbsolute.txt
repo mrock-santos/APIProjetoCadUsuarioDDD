@@ -1,0 +1,15 @@
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Application.deps.json
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Application.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Application.pdb
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.pdb
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.csproj.AssemblyReference.cache
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.AssemblyInfoInputs.cache
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.AssemblyInfo.cs
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.csproj.CoreCompileInputs.cache
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.csproj.CopyComplete
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\refint\ProjetoUseKimCadUsuario.Application.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Application.pdb
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Application\obj\Debug\net6.0\ref\ProjetoUseKimCadUsuario.Application.dll

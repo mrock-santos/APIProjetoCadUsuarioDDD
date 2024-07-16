@@ -1,0 +1,12 @@
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.deps.json
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\bin\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.pdb
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.csproj.AssemblyReference.cache
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.AssemblyInfoInputs.cache
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.AssemblyInfo.cs
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\refint\ProjetoUseKimCadUsuario.Domain.dll
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ProjetoUseKimCadUsuario.Domain.pdb
+C:\ProjetosModelo\ProjetoUseKimCadUsuario\ProjetoUseKimCadUsuario.Domain\obj\Debug\net6.0\ref\ProjetoUseKimCadUsuario.Domain.dll
