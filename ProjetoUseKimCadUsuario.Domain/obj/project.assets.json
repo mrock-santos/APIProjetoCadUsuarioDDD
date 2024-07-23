@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Domain\\ProjetoUseKimCadUsuario.Domain.csproj",
-      "projectName": "ProjetoUseKimCadUsuario.Domain",
-      "projectPath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Domain\\ProjetoUseKimCadUsuario.Domain.csproj",
+      "projectUniqueName": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj",
+      "projectName": "ProjetoCadUsuario.Domain",
+      "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj",
       "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Domain\\obj\\",
+      "outputPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
-**Apresentação da Solução "ProjetoUseKimCadUsuario"**
+**Apresentação da Solução "APIProjetoCadUsuarioDDD"**
 
 **Contextualização do Projeto**
 
-O projeto "ProjetoUseKimCadUsuario" é uma API desenvolvida utilizando o framework .NET Core e a linguagem de programação C#. A solução foi arquitetada seguindo as práticas de Domain-Driven Design (DDD) para assegurar uma organização clara e modular do código, facilitando a manutenção, evolução e testes do sistema.
+O projeto "ProjetoCadUsuario" é uma API desenvolvida utilizando o framework .NET Core e a linguagem de programação C#. A solução foi arquitetada seguindo as práticas de Domain-Driven Design (DDD) para assegurar uma organização clara e modular do código, facilitando a manutenção, evolução e testes do sistema.
 
 **Objetivo**
 
@@ -12,23 +12,23 @@ O objetivo do projeto é fornecer uma API RESTful para a gestão de usuários, p
 
 A solução é composta por diversos projetos, cada um responsável por uma camada específica da aplicação:
 
-1. **ProjetoUseKimCadUsuario.Domain**:
+1. **ProjetoCadUsuario.Domain**:
    1. **Entities**: Contém as entidades do domínio, como Usuario, que encapsulam as regras de negócio e a lógica da aplicação.
    1. **Repositories**: Interfaces dos repositórios que definem os contratos para a manipulação das entidades.
    1. **Services**: Interfaces para serviços externos que o domínio precisa utilizar.
-1. **ProjetoUseKimCadUsuario.Application**:
+1. **ProjetoCadUsuario.Application**:
    1. **DTOs**: Objetos de transferência de dados que são usados para comunicação entre a camada de aplicação e outras camadas.
    1. **Interfaces**: Interfaces que definem os contratos dos serviços de aplicação.
    1. **Services**: Implementações dos serviços de aplicação que orquestram a lógica de negócio, chamando os repositórios e serviços necessários.
-1. **ProjetoUseKimCadUsuario.Infrastructure**:
+1. **ProjetoCadUsuario.Infrastructure**:
    1. **Data**: Configuração do contexto do banco de dados utilizando Entity Framework Core.
    1. **Repositories**: Implementações dos repositórios que interagem com o banco de dados.
    1. **Services**: Implementações dos serviços externos.
-1. **ProjetoUseKimCadUsuario.API**:
+1. **ProjetoCadUsuario.API**:
    1. **Controllers**: Controladores da API que expõem os endpoints para os clientes consumirem os serviços da aplicação.
    1. **Program**: Classe principal que inicializa a aplicação.
    1. **Startup**: Configura os serviços e o middleware da aplicação.
-1. **ProjetoUseKimCadUsuario.Tests**:
+1. **ProjetoCadUsuario.Tests**:
    1. **Domain**: Testes unitários das entidades e regras de negócio.
    1. **Application**: Testes unitários dos serviços de aplicação.
    1. **Infrastructure**: Testes de integração com o banco de dados.
@@ -259,7 +259,7 @@ public void ConfigureServices(IServiceCollection services)
 
 `    `{
 
-`        `c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjetoUseKimCadUsuario", Version = "v1" });
+`        `c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjetoCadUsuario", Version = "v1" });
 
 `    `});
 
@@ -289,7 +289,7 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 
 `    `{
 
-`        `c.SwaggerEndpoint("/swagger/v1/swagger.json", "ProjetoUseKimCadUsuario v1");
+`        `c.SwaggerEndpoint("/swagger/v1/swagger.json", "ProjetoCadUsuario v1");
 
 `    `});
 
@@ -305,17 +305,17 @@ public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
 
 **Conclusão**
 
-O projeto "ProjetoUseKimCadUsuario" foi desenvolvido com foco em uma arquitetura robusta e escalável, seguindo as melhores práticas de DDD e utilizando tecnologias modernas como .NET Core, Entity Framework Core, e Swagger para documentação e testes de API. Com esta estrutura, a solução está preparada para evoluir de maneira consistente, facilitando a manutenção e a adição de novas funcionalidades.
+O projeto "ProjetoCadUsuario" foi desenvolvido com foco em uma arquitetura robusta e escalável, seguindo as melhores práticas de DDD e utilizando tecnologias modernas como .NET Core, Entity Framework Core, e Swagger para documentação e testes de API. Com esta estrutura, a solução está preparada para evoluir de maneira consistente, facilitando a manutenção e a adição de novas funcionalidades.
 
 Agradeço pela oportunidade de apresentar esta solução e estou à disposição para qualquer dúvida ou demonstração prática do projeto.
 
 **Estrutura do Projeto**
 
 
-`    `ProjetoUseKimCadUsuario.sln
+`    `ProjetoCadUsuario.sln
 `    `│
 
-`    `├─── ProjetoUseKimCadUsuario.Domain
+`    `├─── ProjetoCadUsuario.Domain
 
 `    `│`    `├── Entities
 
@@ -332,7 +332,7 @@ Agradeço pela oportunidade de apresentar esta solução e estou à disposição
 `    `│`    `└── ValueObjects
 
 `    `│
-`    `├─── ProjetoUseKimCadUsuario.Application
+`    `├─── ProjetoCadUsuario.Application
 
 `    `│`    `├── DTOs
 
@@ -347,7 +347,7 @@ Agradeço pela oportunidade de apresentar esta solução e estou à disposição
 `    `│`        `└── UsuarioAppService.cs
 
 `    `│
-`    `├─── ProjetoUseKimCadUsuario.Infrastructure
+`    `├─── ProjetoCadUsuario.Infrastructure
 
 `    `│`    `├── Data
 
@@ -364,7 +364,7 @@ Agradeço pela oportunidade de apresentar esta solução e estou à disposição
 `    `│`    `└── Migrations
 `    `│
 
-`    `├─── ProjetoUseKimCadUsuario.API
+`    `├─── ProjetoCadUsuario.API
 
 `    `│`    `├── Controllers
 
@@ -379,7 +379,7 @@ Agradeço pela oportunidade de apresentar esta solução e estou à disposição
 `    `│`    `└── Startup.cs
 
 `    `│
-`    `└─── ProjetoUseKimCadUsuario.Tests
+`    `└─── ProjetoCadUsuario.Tests
 
 `         `├── Domain
 
@@ -390,7 +390,7 @@ Agradeço pela oportunidade de apresentar esta solução e estou à disposição
 `         `└── API
 
 
-	 
-
-dotnet ef migrations add InitialCreate
+**Criar Database [DBAPIProjetoCadUsuarioDDD]**	 
+C:\ProjetosModelo\APIProjetoCadUsuarioDDD\ProjetoCadUsuario.Infrastructure>
+dotnet ef migrations add InitialCreateDataBase
 dotnet ef database update

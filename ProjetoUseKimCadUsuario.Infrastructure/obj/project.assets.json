@@ -1074,27 +1074,27 @@
           }
         }
       },
-      "ProjetoUseKimCadUsuario.Application/1.0.0": {
+      "ProjetoCadUsuario.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "ProjetoUseKimCadUsuario.Domain": "1.0.0"
+          "ProjetoCadUsuario.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/ProjetoUseKimCadUsuario.Application.dll": {}
+          "bin/placeholder/ProjetoCadUsuario.Application.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProjetoUseKimCadUsuario.Application.dll": {}
+          "bin/placeholder/ProjetoCadUsuario.Application.dll": {}
         }
       },
-      "ProjetoUseKimCadUsuario.Domain/1.0.0": {
+      "ProjetoCadUsuario.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/ProjetoUseKimCadUsuario.Domain.dll": {}
+          "bin/placeholder/ProjetoCadUsuario.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProjetoUseKimCadUsuario.Domain.dll": {}
+          "bin/placeholder/ProjetoCadUsuario.Domain.dll": {}
         }
       }
     }
@@ -2952,23 +2952,23 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ProjetoUseKimCadUsuario.Application/1.0.0": {
+    "ProjetoCadUsuario.Application/1.0.0": {
       "type": "project",
-      "path": "../ProjetoUseKimCadUsuario.Application/ProjetoUseKimCadUsuario.Application.csproj",
-      "msbuildProject": "../ProjetoUseKimCadUsuario.Application/ProjetoUseKimCadUsuario.Application.csproj"
+      "path": "../ProjetoUseKimCadUsuario.Application/ProjetoCadUsuario.Application.csproj",
+      "msbuildProject": "../ProjetoUseKimCadUsuario.Application/ProjetoCadUsuario.Application.csproj"
     },
-    "ProjetoUseKimCadUsuario.Domain/1.0.0": {
+    "ProjetoCadUsuario.Domain/1.0.0": {
       "type": "project",
-      "path": "../ProjetoUseKimCadUsuario.Domain/ProjetoUseKimCadUsuario.Domain.csproj",
-      "msbuildProject": "../ProjetoUseKimCadUsuario.Domain/ProjetoUseKimCadUsuario.Domain.csproj"
+      "path": "../ProjetoUseKimCadUsuario.Domain/ProjetoCadUsuario.Domain.csproj",
+      "msbuildProject": "../ProjetoUseKimCadUsuario.Domain/ProjetoCadUsuario.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.20",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.20",
-      "ProjetoUseKimCadUsuario.Application >= 1.0.0",
-      "ProjetoUseKimCadUsuario.Domain >= 1.0.0"
+      "ProjetoCadUsuario.Application >= 1.0.0",
+      "ProjetoCadUsuario.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2977,11 +2977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoUseKimCadUsuario.Infrastructure.csproj",
-      "projectName": "ProjetoUseKimCadUsuario.Infrastructure",
-      "projectPath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoUseKimCadUsuario.Infrastructure.csproj",
+      "projectUniqueName": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj",
+      "projectName": "ProjetoCadUsuario.Infrastructure",
+      "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Infrastructure\\obj\\",
+      "outputPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2998,11 +2998,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Application\\ProjetoUseKimCadUsuario.Application.csproj": {
-              "projectPath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Application\\ProjetoUseKimCadUsuario.Application.csproj"
+            "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj": {
+              "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj"
             },
-            "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Domain\\ProjetoUseKimCadUsuario.Domain.csproj": {
-              "projectPath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Domain\\ProjetoUseKimCadUsuario.Domain.csproj"
+            "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj": {
+              "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "osKF6FXSmffe5tE0heLgk9CyWpO4wMnM2fRIDp9DOPF8YRXNuy0etREUifF9Vr7K0xB1RidRXZbyI/FP2A6bOw==",
+  "dgSpecHash": "WsN7LF9pz3Boapb6eZauvjzQSFK1nxDzw/JNzyiPsE+IFZG7VWXCb7gLlvF/8eFUen5prCKMyXcPh/4HGUUI7A==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoUseKimCadUsuario.Infrastructure.csproj",
+  "projectFilePath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcio\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Marcio\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

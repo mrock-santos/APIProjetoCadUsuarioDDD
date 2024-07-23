@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "guHE+kgHayo/TtVCASipYSdE0Zn4j5OQztxUNdQMyzTC+wET0eGOZ+3qbeQRip7PHJGt/C4f3TJvd4w38jr6vA==",
+  "dgSpecHash": "V6ym0/mnTCrpW/0CMV7ywZgel0bWgJVuzrwvyNyjeMq5STlOVLni/bHrUMpTueC5CU3QR4UUchpFT7p/Uhe0tQ==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosModelo\\ProjetoUseKimCadUsuario\\ProjetoUseKimCadUsuario.Application\\ProjetoUseKimCadUsuario.Application.csproj",
+  "projectFilePath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

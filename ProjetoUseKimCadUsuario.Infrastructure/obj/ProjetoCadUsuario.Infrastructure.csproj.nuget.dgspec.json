@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj",
+        "projectName": "ProjetoCadUsuario.Application",
+        "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj": {
+                "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj",
+        "projectName": "ProjetoCadUsuario.Domain",
+        "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj",
+        "projectName": "ProjetoCadUsuario.Infrastructure",
+        "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\ProjetoCadUsuario.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Marcio\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marcio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj": {
+                "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Application\\ProjetoCadUsuario.Application.csproj"
+              },
+              "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj": {
+                "projectPath": "C:\\ProjetosModelo\\APIProjetoCadUsuarioDDD\\ProjetoUseKimCadUsuario.Domain\\ProjetoCadUsuario.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
